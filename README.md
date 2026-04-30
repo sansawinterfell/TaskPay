@@ -210,9 +210,8 @@ taskpay/
 ---
 
 ## Deployed Contract Link
-[1]https://stellar.expert/explorer/testnet/tx/c9e9ef4e341324fff40b2d1267fed2d3f898eebac73bcde9adedae971d5c0b47
-[2]https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAJ6GMQ6OV4OISK4ZWRJSQIL735CA4ANPVG2H2HIRXNATQCEFTMWEYUN;;
-
+[1] https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAJ6GMQ6OV4OISK4ZWRJSQIL735CA4ANPVG2H2HIRXNATQCEFTMWEYUN;;
+[2] https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CAJ6GMQ6OV4OISK4ZWRJSQIL735CA4ANPVG2H2HIRXNATQCEFTMWEYUN;;
 
 ## License
 
